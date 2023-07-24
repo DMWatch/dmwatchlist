@@ -2,8 +2,8 @@
 
 # Live lists
 - [link to live mixed list](https://dm.watch/api/mixedlist.json)
-- [link to live ban list](https://dmwatch.in/dev/bans.json)
-- [link to live rank list](https://dmwatch.in/dev/ranks.json)
+- [link to live ban list](https://dm.watch/api/bans.json)
+- [link to live rank list](https://dm.watch/api/ranks.json)
 
 # Github Page lists
 
